@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiotAPI", "RiotAPI\RiotAPI.csproj", "{A07B0C22-B3CD-48CF-89DB-86A4EE3B21F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A07B0C22-B3CD-48CF-89DB-86A4EE3B21F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A07B0C22-B3CD-48CF-89DB-86A4EE3B21F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A07B0C22-B3CD-48CF-89DB-86A4EE3B21F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A07B0C22-B3CD-48CF-89DB-86A4EE3B21F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45D7D20B-BE94-491F-B39E-9E5B83E31395}
+	EndGlobalSection
+EndGlobal
